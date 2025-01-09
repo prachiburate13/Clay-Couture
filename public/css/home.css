@@ -1,0 +1,26 @@
+.even {
+    background-color: #025048;
+    height: 750px; /* Add height to make the background visible */
+}
+
+section{
+    padding-left: 70px;
+    padding-right: 50px;
+    padding-top: 20px;
+}
+
+.brand-name{
+    font-family: serif;
+    font-size: 35px;
+}
+
+.section_2{
+    background-color: #e4eeed;
+    height: 1200px; /* Add height to make the background visible */
+}
+
+.section-3{
+    background-color: #ffffff;
+    height: 1200px; /* Add height to make the background visible */
+}
+
