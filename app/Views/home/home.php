@@ -73,11 +73,14 @@
 <section class="section-3">
  <div class="row">
 <div class="col">
-<h2 style="color:#025048;  font-family: monospace; font-size:20px; margin-top:30px;">THE BEST OR CERMAICS</h2>
-<h1 style="color:#585c5b;  font-family: serif; font-size:50px; margin-top:30px;">Our Products Category​</h1>
-    <h3 style="color:#025048; font-family: monospace; font-size:15px; margin: 0; text-align: left;">
+<h2 style="color:#025048; margin-left:50px; font-family: monospace; font-size:20px; margin-top:30px;">THE BEST OR CERMAICS</h2>
+<h1 style="color:#585c5b; margin-left:50px; font-family: serif; font-size:50px; margin-top:30px;">Our Products Category​</h1>
+    <h3 style="color:#025048; margin-left:50px; font-family: monospace; font-size:15px;  text-align: left;">
         Explore our exquisite collection of ceramic treasures that elevate your spaces and celebrate the artistry of craftsmanship. From dinnerware to decor, each piece in our product range is a testament to quality, style, and the timeless beauty of ceramics.
     </h3>
+
+<img src="<?php echo base_url("/public/images/about-3.jpg");?>" style="margin-top:50px;margin-left:50px; width:600px; height:600px;" alt="">
+
 </div>
 <div class="col">
 
